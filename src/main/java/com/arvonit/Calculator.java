@@ -1,4 +1,4 @@
-package com.skinnybonesarv.calculator;
+package com.arvonit;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

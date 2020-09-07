@@ -1,6 +1,5 @@
-package com.skinnybonesarv;
+package com.arvonit;
 
-import com.skinnybonesarv.calculator.Calculator;
 import javafx.application.Application;
 
 public final class Main {
